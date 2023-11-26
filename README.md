@@ -1,1 +1,2 @@
-# embedded_system_termProject
+# Security Window Project
+
