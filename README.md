@@ -17,4 +17,6 @@ Main components: Bluetooth module, Raindrop sensor, Gas sensor, Light sensor, te
 
 <h2>The appearance of the final project</h2>
 
-![image](https://github.com/NaHyeon520/Security-Window-Project/assets/62274608/25b8bfb8-8d27-4f0c-bb0b-b9ef77282a5a)
+![전체샷](https://github.com/NaHyeon520/Security-Window-Project/assets/62274608/19f70746-894d-4203-85dc-8a095f660794)
+
+<h3></h3>
