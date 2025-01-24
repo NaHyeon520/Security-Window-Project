@@ -4,7 +4,7 @@ Microcontroller: STM32F107 <br>
 Main components: Bluetooth module, Raindrop sensor, Gas sensor, Light sensor, temperature/humidity sensor, Vibration sensor, Magnetic sensor, Motor, Text LCD
 <br>
 
-<ul>
+<ol>
   <il>Bluetooth module: The user can interact with the window using Bluetooth by sending a message with the phone to the module. </il>
   <il>Raindrop sensor: If it detects raindrops, it recognizes that it is raining outside and closes the window.</il>
   <il>Gas sensor: If the gas value is over a specific threshold, it recognizes that the fire occurred inside and opens the window.</il>
@@ -13,7 +13,7 @@ Main components: Bluetooth module, Raindrop sensor, Gas sensor, Light sensor, te
   <il>Vibration sensor: Sends the warning message through Bluetooth to the user if it detects the crash.</il>
   <il>Magnetic sensor: Used to recognize whether the window is opened or closed.</il>
   <il>Motor: Opens or Closes the window.</il>
-</ul>
+</ol>
 
 <h2>The appearance of the final project</h2>
 
