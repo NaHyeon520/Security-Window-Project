@@ -4,16 +4,16 @@ Microcontroller: STM32F107 <br>
 Main components: Bluetooth module, Raindrop sensor, Gas sensor, Light sensor, temperature/humidity sensor, Vibration sensor, Magnetic sensor, Motor, Text LCD
 <br>
 
-<ol>
-  <il>Bluetooth module: The user can interact with the window using Bluetooth by sending a message with the phone to the module. </il>
-  <il>Raindrop sensor: If it detects raindrops, it recognizes that it is raining outside and closes the window.</il>
-  <il>Gas sensor: If the gas value is over a specific threshold, it recognizes that the fire occurred inside and opens the window.</il>
-  <il>Light sensor: Prints the amount of light on the LCD screen</il>
-  <il>Temperature/humidity sensor: Prints the temperature and humidity on the LCD screen. Also, the temperature will help to detect fire with a gas sensor.</il>
-  <il>Vibration sensor: Sends the warning message through Bluetooth to the user if it detects the crash.</il>
-  <il>Magnetic sensor: Used to recognize whether the window is opened or closed.</il>
-  <il>Motor: Opens or Closes the window.</il>
-</ol>
+<ul>
+  <li>Bluetooth module: The user can interact with the window using Bluetooth by sending a message with the phone to the module. </li>
+  <li>Raindrop sensor: If it detects raindrops, it recognizes that it is raining outside and closes the window.</li>
+  <li>Gas sensor: If the gas value is over a specific threshold, it recognizes that the fire occurred inside and opens the window.</li>
+  <li>Light sensor: Prints the amount of light on the LCD screen</li>
+  <li>Temperature/humidity sensor: Prints the temperature and humidity on the LCD screen. Also, the temperature will help to detect fire with a gas sensor.</li>
+  <li>Vibration sensor: Sends the warning message through Bluetooth to the user if it detects the crash.</li>
+  <li>Magnetic sensor: Used to recognize whether the window is opened or closed.</li>
+  <li>Motor: Opens or Closes the window.</li>
+</ul>
 
 <h2>The appearance of the final project</h2>
 
